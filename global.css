@@ -1,0 +1,17 @@
+body {
+  margin: 0px
+}
+:root {
+    --color-white: rgba(255, 255, 255, 1);
+    --color-primary: rgba(9, 44, 76, 1);
+    --color-grey-5: #E0E0E0;
+    --color-grey-3: rgba(130, 130, 130, 1);
+    --color-grey-1: rgba(51, 51, 51, 1);
+    --color-secondary: rgba(242, 153, 74, 1);
+    --heading-h4-font-family: "Inter", Helvetica;
+    --heading-h4-font-weight: 700;
+    --heading-h4-font-size: 32px;
+    --heading-h4-letter-spacing: 0px;
+    --heading-h4-line-height: 35.20000076293945px;
+    --heading-h4-font-style: normal;
+  }
